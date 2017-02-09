@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.012,=C:\Users\teof1\Desktop\Настя и Лена\Турагенство\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.049,=C:\Users\teof1\Desktop\Настя и Лена\Турагенство\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.815,=C:\Users\teof1\Desktop\Настя и Лена\Турагенство\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.745,=C:\Users\teof1\Desktop\Настя и Лена\Турагенство\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.945,=C:\Users\teof1\Desktop\Настя и Лена\Турагенство\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.114,C:\Users\teof1\Desktop\Настя и Лена\Турагенство\Project1.dproj=C:\Users\teof1\Desktop\Настя и Лена\Турагенство\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.969,=C:\Users\teof1\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.372,=C:\Users\teof1\Desktop\Настя и Лена\Турагенство\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.468,=C:\Users\teof1\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.549,C:\Users\teof1\Desktop\Настя и Лена\Турагенство\Project1.dproj=C:\Users\teof1\Desktop\Настя и Лена\Турагенство\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.544,C:\Users\teof1\Desktop\Настя и Лена\Турагенство\Project1.dproj=C:\Users\teof1\OneDrive\Документы\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Unit2.pas"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit3.pas"/>
+    <File Path="Unit3.dfm"/>
+    <File Path="Unit4.pas"/>
+    <File Path="Unit4.dfm"/>
+    <File Path="Unit5.pas"/>
+    <File Path="Unit5.dfm"/>
+    <File Path="Unit6.pas"/>
+    <File Path="Unit6.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
